@@ -9,7 +9,7 @@
 [Click here!](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/portfolio/portfolio.md)
 
 ## Описание:
-**Photographer-portfolio** - одностраничный сайт портфолио фотографа.<br>
+**Photographer-portfolio** - адаптивный и интерактивный одностраничный сайт портфолио фотографа.<br>
 Проект создавался в рамках прохождения stage#0 факультета "Веб-разработчик" Rolling Scopes School.<br>
 
 ## Технологии:
